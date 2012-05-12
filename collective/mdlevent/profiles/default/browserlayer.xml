@@ -1,0 +1,4 @@
+<layers>
+    <layer name="collective.mdlevent"
+           interface="collective.mdlevent.browser.interfaces.ILayer" />
+</layers>
